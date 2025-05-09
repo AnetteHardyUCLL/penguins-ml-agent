@@ -3,7 +3,7 @@ using UnityEngine;
 public class BabyHunger : MonoBehaviour
 {
     [Tooltip("How fast the baby hunger drains per second")]
-    public float drainPerSecond = 0.005f;
+    public float drainPerSecond = 0.00024f;
 
     [Range(0f, 1f)]
     public float hungerLevel = 1f; // 1 = full, 0 = starving

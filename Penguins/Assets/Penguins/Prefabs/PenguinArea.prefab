@@ -261,7 +261,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1966604215525422519, guid: bd48644d29ceb2a4d9ac0e765784b383, type: 3}
       propertyPath: m_BrainParameters.VectorObservationSize
-      value: 10
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 1966604215525422519, guid: bd48644d29ceb2a4d9ac0e765784b383, type: 3}
       propertyPath: m_BrainParameters.VectorActionSize.Array.size
