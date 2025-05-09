@@ -16,7 +16,7 @@ This project simulates a biologically-inspired AI penguin agent capable of balan
 - Install Unity 2021 LTS.
 - Clone this repository.
 - Open the project and load the scene:  
-  `Assets/Scenes/PenguinEnvironment.unity`
+  `Assets/Scenes/SampleScene.unity`
 - Press **Play** to observe the trained AI behavior.
 
 ### 2. [Optional] Manual control
